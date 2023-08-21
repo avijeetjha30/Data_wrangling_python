@@ -15,7 +15,7 @@ We achive that by practicing of <b>"Data Wrangling"</b>
     cv2 - To get frames from video.
     uuid - rename the frame name using uuid for name conflict.
     pybase64 - for encoding and decoding.
-    pytest-shutil - for high level operations on files anf collections of files.
+    pytest-shutil - for high level operations on files and collections of files.
 
 <h3>Create and activate virtual environment -</h3>
 
