@@ -4,14 +4,14 @@ Welcome to the code repository for Data Wranglingn with Python! I hope you find 
 
 <h3>Brif introduction about Data Wrangling?</h3>
 
-<p>In Machine Learning model requires a dataset to operate, i.e. to train and test. But data doesn't fully prepared and ready to use. Sometime data set also contains some of the rows and coloums which are not even required for our model.
+<p>In Machine Learning, model requires a dataset to operate, i.e. to train and test. But data doesn't fully prepared and ready to use. Sometime data set also contains some of the rows and coloums which are not even required for our model.
 In such conditions, it requires proper cleaning and modifications of dataset to make it an efficient input for our model.</p>
 We achive that by practicing of <b>"Data Wrangling"</b>
 
 <h3>Used Python module - <h3>
 
     os - for file handling.
-    glob2 - for high level operations on files anf collections of files.
+    glob2 - for high level operations on files and collections of files.
     cv2 - To get frames from video.
     uuid - rename the frame name using uuid for name conflict.
     pybase64 - for encoding and decoding.
