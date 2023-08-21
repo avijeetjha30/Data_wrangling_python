@@ -27,7 +27,7 @@ We achive that by practicing of <b>"Data Wrangling"</b>
     for Ubuntu:
 
         python3 -m venv venv
-        source venv\bin\activate
+        source venv/bin/activate
 
 <h3>Install all used Python modules -</h3>
 
